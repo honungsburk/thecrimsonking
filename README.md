@@ -7,6 +7,7 @@
 [] how to take payment
 [] Any additional meta info
 [] Subtitel?
+[] License to the CSS?
 
 Publishing platforms:
 * Amazon
