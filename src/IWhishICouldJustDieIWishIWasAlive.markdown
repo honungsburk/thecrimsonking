@@ -4,18 +4,18 @@ With ribbons in their mouths, the sky as their floor,
 that shifts and moves in see-through pinks and blues.  
 The wonders of cosmos soon lost by the shore  
 of oblivion, stronger than any other brew,  
-longer lasting, the most mellow of the hues,  
-as colored dots and swarms of grey arrive;  
+longer lasting, the most mellow of the hues.  
+As colored dots and swarms of grey arrive,  
 I greet them with jokes while showing off the view.  
 I wish I could just die; I wish I was alive.  
 
 Later, thinking about the doomsday-four,  
 the quartet to orchestrate the coup  
-on human life with all its joy and chore  
+on human life with all its joy and chore,  
 and sing it out on a bittersweet adieu!  
-That twists one's heart as if it caught the flu,  
-like a stray comment that hit you in the side,  
-and poured you on the rocks—starving for advice.  
+That twists my heart like when you caught the flu,  
+or when a comment strayed and hit you in the side  
+and poured you on the rocks, starving for advice.  
 I wish I could just die; I wish I was alive.  
 
 Don't you hear the cosmic dancers rave and play?  
