@@ -8,6 +8,7 @@ COVER_IMAGE = resources/TheCrimsonKingCover.jpg
 COVER = resources/cover.xhtml
 LATEX_CLASS = book
 EPUB_CSS = css/blitz-lite-poetry.min.css
+LICENSES = license.md
 
 all: book
 
@@ -24,8 +25,8 @@ pdf: $(BUILD)/$(BOOKNAME).pdf
 
 $(BUILD)/$(BOOKNAME).epub: $(CHAPTERS)
 	@ mkdir -p $(BUILD)
-	pandoc $(TOC) -S --epub-stylesheet=$(EPUB_CSS) --epub-cover-image=$(COVER_IMAGE) $(METADATA) -o $@ $^
-	# The next to file adds xhtml so that the cover properly rescales on all devices
+	@ pandoc $(TOC) --from markdown+smart --css=$(EPUB_CSS) --epub-cover-image=$(COVER_IMAGE) $(METADATA) -o $@ $^ $(LICENSES)
+	@ # The next to file adds xhtml so that the cover properly rescales on all devices
 	@ cp $(COVER) cover.xhtml
 	@ zip -m $@ cover.xhtml
 

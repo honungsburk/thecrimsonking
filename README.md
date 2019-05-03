@@ -1,20 +1,16 @@
 # The Crimson King
 
-[] Add tags
-[] Decide how to publish
-[] Check grammar
-[] isbn
-[] how to take payment
-[] Any additional meta info
-[] Subtitel?
-[] License to the CSS?
+[ x ] isbn
+[ x ] how to take payment
+[  ] License to the CSS?
+[  ] pliktlag, du måste skicka in till isbn.
+[  ] add isbn to file auto...
 
 Publishing platforms:
 * Amazon
 * Apple books
 * Barnes & Noble
 * Kobo
-
 
 isbn for ebooks:
 Varje enskilt format ska ha sin egen isbn.
