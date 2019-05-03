@@ -18,26 +18,26 @@ but favored instead the crimson red,
 muttering for the miracle child,  
 exclaiming, "where—where is it?"  
 
-Bathed in salt, as if formed in ocean,  
-on top a shell, to be draped by Spring  
+Bathed in salt as if formed in ocean,  
+on top a shell to be draped by Spring,  
 the eternal lover's favorite motion  
 with copper hair curled just like the wind.  
-The theater was laid in silverlight  
-and a purple haze embraced the crowd  
-roaring at the hint of a shadow of a sign  
-the rich mood dampened as the wind began to howl  
+The theater was laid in silverlight,  
+and a purple haze embraced the crowd,  
+roaring at the hint of a shadow of a sign.  
+The rich mood dampened as the wind began to howl.  
 
 A stir in the clouds — an acid rain  
 a giant's fist's shattering sound  
 — a pinch of pain — trembling in awe  
-edged to the brim—boiling in rage  
-that's when she threw himself on stage  
+edged to the brim — boiling in rage  
+that's when she threw himself on stage.  
 
 It's here! It lives, it moves us!  
 It behooves us! To take it where it groves us!  
 My pencil, pen and rockstar muse...  
 So obtuse, it fades — (barely used)  
 
-Do not ring my door, this is not my home  
-all parties must part their ways  
+Do not ring my door; this is not my home.  
+All parties must part their ways,  
 and I drink my crimson red alone  

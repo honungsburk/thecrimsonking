@@ -7,8 +7,8 @@ I was measured, weighted, and told to cry my plead
 because it would be deep and know no end.  
 I'd spilled sober thoughts to the wrong friend.  
 
-I searched the hall for a dead man's boots  
-"lucky as always", my stoned self stammered.  
+I searched the hall for a dead man's boots.  
+"Lucky as always", my stoned self stammered.  
 My bones and yaw were tangled in roots,  
 for one of nature's spirits had got me hammered  
 and soon it all would vanish — the miracle die —  

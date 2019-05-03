@@ -1,6 +1,6 @@
 # All Along the Interlude
 
-Through mist, the rider came damp in heavy clothes,  
+Through mist, the rider came damp in heavy clothes.  
 "Is this the way?", he asked  
 for he wasn't sure.  
 "Depends," said the gentleman.  
@@ -15,10 +15,10 @@ and rode the trees.
 When the levee breaks we'll have no place.  
 Can you hear the caw over wind and wave,  
 awakening their deepest, most inner rage:  
-crying floods, a burning temper. How rude—  
+crying floods, a burning temper. How rude —  
 to flush us down all along the interlude.  
 
-The alleys crawled with sickening thoughts,  
+The alleys crawled with sickening thoughts  
 passing them by under flickering lights.  
 "Thanks for tonight,"  
 said as their hands unlocked  
@@ -76,13 +76,13 @@ The fourth had been there biding his time,
 day by day, the routine of your life:  
 "a most trusted advisor."  
 Who you must call at once.  
-For you find yourself amidst the worst of floods  
+For you find yourself amidst the worst of floods,  
 and fear needs no more than a spark to turn hot,  
 so you watch as the Empire subdue:  
 "You rebel scum!" all along the interlude.  
 
 "My office, now", demanded the sweaty man,  
-the puppet in control, whose flick of a switch  
+the puppet in control whose flick of a switch  
 could burn a world.  
 While a watchman pulled off the greatest heist  
 by staging Armageddon for the ultimate prize:  

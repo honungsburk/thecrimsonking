@@ -18,9 +18,9 @@ Fall from your throne, your dying seat of might.
 
 Brave the violent seas and tumble by its smite,  
 Lick the warm salt, embrace your loving pact;  
-Be borne on the wind to ever higher height.  
+be borne on the wind to ever higher height.  
 
-Fear a dove's loving lie, its shroud of white  
+Fear a dove's loving lie, its shroud of white.  
 Wash ashore, soaked in blisters, still intact.  
 Fall from your throne, your dying seat of might;  
 be borne on the wind to ever higher height.  

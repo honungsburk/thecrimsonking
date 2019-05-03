@@ -1,9 +1,9 @@
 # Ode to a Princess
 
-Princess — from which spring did you sprung?  
+Princess, from which spring did you sprung?  
 Yesteryear, like a flood down rolling mountains,  
 or tomorrow bursting from a soaking tongue.  
-You — the most oozing of youthful fountains,  
+You, the most oozing of youthful fountains,  
 the prized picture in my crystal ball.  
 Favorite niece, sweet child of mine,  
 my youth, my home, my love, my crown!  
@@ -24,7 +24,7 @@ with the red cloaks singing even though
 their desire is mired in the golden glow   
 of hellfire, hellfire, heaven's light, and hellfire.  
 
-Brave knight, you can not save what burned to ash,  
+Brave knight, you can not save what burned to ash;  
 the fierce flames send shivers down your spine,  
 a tingle, a sensation so subtle until it clash  
 and wreaks havoc under the guise of "I feel fine".  

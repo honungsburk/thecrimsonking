@@ -7,7 +7,7 @@ she charmed me acting coy.
 
 Shaped into what I had in mind  
 I let myself run wild,  
-and made my myth a hollow craze  
+and made my myth a hollow craze,  
 and begged to be beguiled.  
 
 My cosmic wave had sent me straight  
@@ -45,7 +45,7 @@ for you to conquer stars,
 to put them all in bulbs one day  
 all labeled: Made on Mars.  
 
-My heart, it jumped and made a ripple  
+My heart, it jumped and made a ripple,  
 and a cosmic wave was born,  
 bestowing life to this siren's song  
 forever and evermore.  
