@@ -1,12 +1,7 @@
 # All Along the Interlude
 
-<<<<<<< HEAD
 Through mist, the rider came damp in heavy clothes.  
-"Is this the way?", he asked  
-=======
-Through mist the rider came damp in heavy clothes.  
-"Is this the way?" he asked,  
->>>>>>> 80a1c9ff6cbc58b2fc6c8ed1db965c4be1cac745
+"Is this the way?", he asked,  
 for he wasn't sure.  
 "Depends," said the gentleman.  
 "Of course," the charlatan.  
@@ -19,13 +14,8 @@ when wind scuffled the leaves
 and rode the trees.  
 When the levee breaks we'll have no place.  
 Can you hear the caw over wind and wave,  
-<<<<<<< HEAD
 awakening their deepest, most inner rage:  
 crying floods, a burning temper. How rude —  
-=======
-awakening their deepest, most inner rage;  
-Crying floods, a burning temper. How rude —  
->>>>>>> 80a1c9ff6cbc58b2fc6c8ed1db965c4be1cac745
 to flush us down all along the interlude.  
 
 The alleys crawled with sickening thoughts  
@@ -91,11 +81,7 @@ and fear needs no more than a spark to turn hot,
 so you watch as the Empire subdue:  
 "You rebel scum!" all along the interlude.  
 
-<<<<<<< HEAD
-"My office, now", demanded the sweaty man,  
-=======
 "My office, now!" demanded the sweaty man,  
->>>>>>> 80a1c9ff6cbc58b2fc6c8ed1db965c4be1cac745
 the puppet in control whose flick of a switch  
 could burn a world.  
 While a watchman pulled off the greatest heist  
