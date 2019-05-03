@@ -1,6 +1,8 @@
 # Appendix {epub:type=appendix}
 
-## License used by the css file
+## License
+
+(This is the license required by the css filed used in this ebook)
 
 MIT License
 
