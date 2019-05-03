@@ -7,7 +7,7 @@ who's wicked love turned me sane,
 to give such a gift so carelessly away!  
 
 Set a flame, flames above the tops  
-of church towers and wedding props;  
+of church bells and wedding props;  
 lovely lady, lady love,  
 the virgin mistress who drinks my crimson.  
 Oh! how love turns what simply isn't.  

@@ -1,6 +1,6 @@
 # A Siren's Song
 
-Mystique was first to grab my hand,  
+Mystique was first to grab my hand;  
 my childishness her joy.  
 With rhythmic thrusts to a mellow beat  
 she charmed me acting coy.  
@@ -26,9 +26,9 @@ So he smeared his blood to eternity
 hoping some would dry.  
 
 Like every other fool before  
-whose blood now glaced the sky  
+whose blood now glaced the sky,  
 and left us all forever awed  
-at beauty's transcending eye.  
+how pain might short the eye.  
 
 You drifted, but then I saw your bride,  
 the body for which you're bound,  
@@ -43,7 +43,7 @@ what could be the harm?
 Did you know, pretty prince, my wish  
 for you to conquer stars,  
 to put them all in bulbs one day  
-all labeled: Made on Mars.  
+all labeled "Made on Mars".  
 
 My heart, it jumped and made a ripple,  
 and a cosmic wave was born,  

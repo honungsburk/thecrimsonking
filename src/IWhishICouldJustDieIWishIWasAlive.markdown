@@ -11,11 +11,17 @@ I wish I could just die; I wish I was alive.
 
 Later, thinking about the doomsday-four,  
 the quartet to orchestrate the coup  
-on human life with all its joy and chore  
+on human life with all its joy and chore,  
 and sing it out on a bittersweet adieu!  
+<<<<<<< HEAD
 That twists one's heart as if it caught the flu.  
 Like a stray comment that hit you in the side,  
 and poured you on the rocks — starving for advice.  
+=======
+That twists my heart like when you caught the flu,  
+or when a comment strayed and hit you in the side  
+and poured you on the rocks, starving for advice.  
+>>>>>>> 80a1c9ff6cbc58b2fc6c8ed1db965c4be1cac745
 I wish I could just die; I wish I was alive.  
 
 Don't you hear the cosmic dancers rave and play?  

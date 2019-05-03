@@ -18,7 +18,7 @@ There was still fuel with which to tease his guest
 chained between the best and the better world  
 in the state of fixed but not possessed.  
 Its potential crumbled as his head was whirled   
-from his stumble across the creases — hard pressed —  
+from a stumble across the creases — hard pressed —  
 to scared to let my comfort be undressed.  
 
 Are you not the famed cosmic dancer?  
@@ -40,14 +40,14 @@ pulling your mind through the thick of herbs,
 letting your image crack, exposed afresh,  
 and hear yourself spill the words  
 you've kept so close though they hurt,  
-telling truth in a fictitious flirt  
+telling truth in a fictitious flirt.  
 
 Perhaps your kink is to be dressed down,  
 to fell it raw on raw — love without bounds.  
-Pacing your moans as it eclipses your crown  
+Pacing your moans as it eclipses your crown,  
 and peaks as you sip the wine made from the sound  
-of silence where nothing is covered up  
-and one drop gives way to an entire cup.  
+of silence. Where nothing is covered up,  
+and one drop gives way to the entire cup.  
 
 You demon — angel — with claws and fangs,  
 strokes of danger, and crimson flair,  
