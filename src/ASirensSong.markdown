@@ -26,7 +26,7 @@ So he smeared his blood to eternity
 hoping some would dry.  
 
 Like every other fool before  
-whose blood now glaced the sky,  
+whose blood now glazed the sky,  
 and left us all forever awed  
 how pain might short the eye.  
 
